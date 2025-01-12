@@ -150,8 +150,13 @@ rules:
   - DOMAIN,wxapp.tc.qq.com,DIRECT
   - DOMAIN,emoji.qpic.cn,DIRECT
   - DOMAIN,resstatic.servicewechat.com,DIRECT
-  - RULE-SET,private,DIRECT
-  - RULE-SET,reject,REJECT
-  - RULE-SET,direct,DIRECT
-  - RULE-SET,lancidr,DIRECT
-  - RULE-SET,cncidr,DIRECT
+
+  - DOMAIN,podcast.apple.com,PROXY
+  - DOMAIN,past.im,PROXY
+  - DOMAIN,amp-api.podcasts.apple.com,PROXY
+
+#  - RULE-SET,private,DIRECT
+#  - RULE-SET,reject,REJECT
+#  - RULE-SET,direct,DIRECT
+#  - RULE-SET,lancidr,DIRECT
+#  - RULE-SET,cncidr,DIRECT
