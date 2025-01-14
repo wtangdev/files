@@ -163,6 +163,8 @@ rules:
   - DOMAIN,lookup-api.apple.com,International-Media
   - DOMAIN,play.itunes.apple.com,International-Media
   - DOMAIN,xp.apple.com,International-Media
+  - DOMAIN,app-analytics-services.com,International-Media
+
 
 #  - RULE-SET,private,DIRECT
 #  - RULE-SET,reject,REJECT
