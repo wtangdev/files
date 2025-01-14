@@ -164,6 +164,33 @@ rules:
   - DOMAIN,play.itunes.apple.com,International-Media
   - DOMAIN,xp.apple.com,International-Media
   - DOMAIN,app-analytics-services.com,International-Media
+  - DOMAIN,podcasts.itunes.apple.com,International-Media
+  - DOMAIN,
+
+  - DOMAIN-SUFFIX,apple.news,International-Media
+  - DOMAIN,news-events.apple.com,International-Media
+  - DOMAIN,news-edge.apple.com,International-Media
+  - DOMAIN,apple.comscoreresearch.com,International-Media
+  - DOMAIN,news-assets.apple.com,International-Media
+
+  # Apple Non-China CDN
+  #
+  # iTunes
+  - DOMAIN-SUFFIX,hls.itunes.apple.com,International-Media
+  - DOMAIN-SUFFIX,hls-amt.itunes.apple.com,International-Media
+  - DOMAIN-SUFFIX,audio-ssl.itunes.apple.com,International-Media
+  - DOMAIN-SUFFIX,cdn-apple.com,International-Media
+  - DOMAIN,cdn.apple-cloudkit.com,International-Media
+  # Developer
+  - DOMAIN,devimages-cdn.apple.com,International-Media
+  - DOMAIN,devstreaming-cdn.apple.com,International-Media
+  - DOMAIN,js-cdn.music.apple.com,International-Media
+  - DOMAIN,docs-assets.developer.apple.com,International-Media
+  # Other
+  - DOMAIN-SUFFIX,apple-dns.net,International-Media
+  # OCSP
+  - DOMAIN-SUFFIX,ocsp.apple.com,International-Media
+
 
 
 #  - RULE-SET,private,DIRECT
