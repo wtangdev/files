@@ -158,6 +158,11 @@ rules:
   - DOMAIN,podcast.apple.com,International-Media
   - DOMAIN,past.im,International-Media
   - DOMAIN,amp-api.podcasts.apple.com,International-Media
+  - DOMAIN,podcasts.apple.com,International-Media
+  - DOMAIN,bookkeeper.itunes.apple.com, International-Media
+  - DOMAIN,lookup-api.apple.com,International-Media
+  - DOMAIN,play.itunes.apple.com,International-Media
+  - DOMAIN,xp.apple.com,International-Media
 
 #  - RULE-SET,private,DIRECT
 #  - RULE-SET,reject,REJECT
