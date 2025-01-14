@@ -1,5 +1,5 @@
-name: clash-rules
-desc: clash-rules 规则集覆写
+name: facmata override
+desc: facmata-rules 规则集覆写
 
 rule-providers:
   reject:
