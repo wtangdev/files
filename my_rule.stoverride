@@ -150,6 +150,10 @@ rules:
   - DOMAIN,wxapp.tc.qq.com,DIRECT
   - DOMAIN,emoji.qpic.cn,DIRECT
   - DOMAIN,resstatic.servicewechat.com,DIRECT
+  - DOMAIN,tv.micu.hk, DIRECT
+  - DOMAIN,tv1.micu.hk, DIRECT
+  - DOMAIN,media.micu.hk, PROXY
+
 
   - DOMAIN,podcast.apple.com,PROXY
   - DOMAIN,past.im,PROXY
