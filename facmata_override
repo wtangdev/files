@@ -151,7 +151,7 @@ rules:
   - DOMAIN,emoji.qpic.cn,DIRECT
   - DOMAIN,resstatic.servicewechat.com,DIRECT
 
-- DOMAIN,tv.micu.hk, DIRECT
+  - DOMAIN,tv.micu.hk, DIRECT
   - DOMAIN,tv1.micu.hk, DIRECT
   - DOMAIN,media.micu.hk, International-Media
 
@@ -166,7 +166,6 @@ rules:
   - DOMAIN,xp.apple.com,International-Media
   # - DOMAIN,app-analytics-services.com,International-Media
   - DOMAIN,podcasts.itunes.apple.com,International-Media
-  - DOMAIN,
 
   - DOMAIN-SUFFIX,apple.news,International-Media
   - DOMAIN,news-events.apple.com,International-Media
