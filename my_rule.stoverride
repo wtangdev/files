@@ -154,6 +154,9 @@ rules:
   - DOMAIN,tv1.micu.hk, DIRECT
   - DOMAIN,media.micu.hk, PROXY
 
+  - DOMAIN,xhscdn.com,DIRECT
+  - DOMAIN,xiaohongshu.com,DIRECT
+
 
   - DOMAIN,podcast.apple.com,PROXY
   - DOMAIN,past.im,PROXY
