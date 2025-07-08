@@ -293,6 +293,8 @@ rules:
   # enable Dia browser login
   - DOMAIN-KEYWORD,diabrowser,PROXY
 
+  - DOMAIN-SUFFIX,battle.net,PROXY
+
 
 
 #  - RULE-SET,private,DIRECT
