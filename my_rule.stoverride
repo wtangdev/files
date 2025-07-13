@@ -289,6 +289,7 @@ rules:
   - DOMAIN-SUFFIX,xmsl.org,DIRECT
   - DOMAIN-SUFFIX,9521732.xyz,DIRECT
   - DOMAIN-SUFFIX,misakaf.org,DIRECT
+  - DOMAIN-SUFFIX,zox.show,DIRECT
 
   # enable Dia browser login
   - DOMAIN-KEYWORD,diabrowser,PROXY
